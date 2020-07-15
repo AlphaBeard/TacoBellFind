@@ -10,10 +10,7 @@
 }
 
 body {
-    background-image: url(../img/bg2.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    /* back */
+    background-color: pink;
     font-family: 'Ubuntu', sans-serif;
     font-weight: 700;
     color: rgb(255, 225, 27);
